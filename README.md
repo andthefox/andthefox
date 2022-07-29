@@ -1,5 +1,7 @@
 # Hi, I'm Andrew #
 
+* JS osc synthesizer with pc keyboard and MIDI support (~~in progress~~ paused)  https://andthefox.github.io/jsOsc/
+
 <!---
 <p align="left"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=andthefox&repo=andthefox&countColorcountColor&countColor=%237B1E7A" /></p>
 
