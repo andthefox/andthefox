@@ -5,6 +5,7 @@
   (_django, fastapi, flask, sqlalchemy_)
   
   Also i have some experience in PHP, C/C++, C#, Javascript, HTML, CSS
-  adn development for AVR/Arduino 
+  
+  and development for AVR/Arduino 
   
   Today i'm interested in ***web development***
