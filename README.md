@@ -6,7 +6,7 @@ My name is Andrew and currently i code mostly on **Python**
 
 Also i have some experience in PHP, C/C++, C#, Javascript, HTML, CSS and development for AVR/Arduino 
 
-Today i'm interested in ***web development***
+Today i'm interested in backend development for web apps
 
 <!-- Codewars: ![Codewars](https://www.codewars.com/users/andthefox/badges/micro) -->
 
