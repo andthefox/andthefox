@@ -1,12 +1,9 @@
 
 ## Hi there!
 
-My name is Andrew and currently i code mostly on **Python** 
-(_django, fastapi, flask, sqlalchemy_)
-
-Also i have some experience in PHP, C/C++, C#, Javascript, HTML, CSS and development for AVR/Arduino 
-
-Today i'm interested in backend development for web apps
+My name is Andrew. I primarily develop in Python, with experience of using Django, FastAPI, Flask, and SQLAlchemy. 
+I also have background knowledge in PHP, C/C++, C#, JavaScript, HTML, CSS, and embedded development for AVR/Arduino. 
+Currently, I am focused on backend development for web applications.
 
 <!-- Codewars: ![Codewars](https://www.codewars.com/users/andthefox/badges/micro) -->
 
@@ -22,7 +19,7 @@ Today i'm interested in backend development for web apps
 
 <details>
   
-  <summary>Other competencies</summary>
+  <summary>Other experience</summary>
 
   ###
   
