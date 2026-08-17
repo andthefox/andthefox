@@ -1,12 +1,11 @@
 
 ## Hi there!
-
+<!--
 My name is Andrew. I primarily develop in Python, with experience of using Django, FastAPI, Flask, and SQLAlchemy. 
 I also have background knowledge in PHP, C/C++, C#, JavaScript, HTML, CSS, and embedded development for AVR/Arduino. 
 Currently, I am focused on backend development for web applications.
 
-<!-- Codewars: ![Codewars](https://www.codewars.com/users/andthefox/badges/micro) -->
-
+<!-- Codewars: ![Codewars](https://www.codewars.com/users/andthefox/badges/micro) --
 ### Current stack  
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -35,5 +34,5 @@ Currently, I am focused on backend development for web applications.
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 </details>
 
-
+-->
   
